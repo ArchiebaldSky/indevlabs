@@ -25,17 +25,6 @@ dependencies {
     implementation("org.springframework.boot:spring-boot-starter-validation")
     implementation("org.springframework.cloud:spring-cloud-starter-openfeign:4.0.2")
     annotationProcessor("org.springframework.boot:spring-boot-configuration-processor")
-    /**
-     * 	implementation("org.springframework.boot:spring-boot-starter-data-jdbc")
-     * implementation("org.springframework.boot:spring-boot-starter-data-jpa")
-     */
-
-    /**
-     * Database
-     *
-    implementation("org.liquibase:liquibase-core")
-    runtimeOnly("org.postgresql:postgresql")
-     */
 
     /**
      * Utils & Logging

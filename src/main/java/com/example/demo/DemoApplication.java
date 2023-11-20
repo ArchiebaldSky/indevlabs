@@ -9,7 +9,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 @OpenAPIDefinition(
         info = @Info(
-                title = "Title",
+                title = "Indevlabs Test",
                 version = "1.0.0",
                 description = "OpenApi documentation",
                 contact = @Contact(
