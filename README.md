@@ -15,6 +15,6 @@
 ## Инструкция по запуску
 Запуск приложения может быть произведён с помощью IDE (JDK 17) из файла [DemoApplication.class](src/main/java/com/example/demo/DemoApplication.java)
 
-Либо второым способом: с помощью bash скрипта [run.sh](run.sh) при наличии [Docker](https://www.docker.com/products/personal/)
+Либо вторым способом: с помощью bash скрипта [run.sh](run.sh) при наличии [Docker](https://www.docker.com/products/personal/)
 
 Остановка приложения аналогична запуску либо с помощью IDE, либо bash скриптом [stop.sh](stop.sh)
